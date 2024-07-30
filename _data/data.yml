@@ -50,17 +50,14 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    # summary: |
-    #   Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    #   adipiscing elit. You can [download this free resume/CV template here]().
-    #   Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    #   penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    #   Donec quam felis, ultricies nec, pellentesque eu.
-    #   Second paragraph if required.
-education:
-    - degree: MSc-PhD integrated in Electronical Engineering
-      university: POSTECH
-      time: 2024 - Current
+    summary: |
+      Sehyeon Kim received B.S. degree in Electronic Engineering from Pohang University of Science and Technology(POSTECH), Pohang, South Korea. in 2024.
+      He is currently a M.S. ~ Ph.D candidate in Electrical Engineering in Pohang University of Science and Technology(POSTECH), Pohang, South Korea.
+      His current research interests include Physical Design Optimization. He is working with Prof. Seokhyeong Kang in his CAD & SoC Design Lab.
+# education:
+#     - degree: MSc-PhD integrated in Electronical Engineering
+#       university: POSTECH
+#       time: 2024 - Current
       # details: |
       #   Describe your study here lorem ipsum dolor sit amet, consectetuer
       #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,9 +66,9 @@ education:
       #   pretium quis, sem.
       #     - Bullet point
       #     - Bullet point
-    - degree: BSc in Electronical Engineering
-      university: POSTECH
-      time: 2020 - 2024
+    # - degree: BSc in Electronical Engineering
+    #   university: POSTECH
+    #   time: 2020 - 2024
       # details: |
       #   Describe your study here lorem ipsum dolor sit amet, consectetuer
       #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -80,20 +77,12 @@ education:
       #   pretium quis, sem.
       #     - Bullet point
       #     - Bullet point
-# experiences:
-#     - role: Lead Developer
-#       time: 2015 - Present
-#       company: Startup Hubs, San Francisco
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#         enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#         error sit voluptatem accusantium doloremque laudantium, totam rem
-#         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#         architecto beatae vitae dicta sunt explicabo.
+experiences:
+    - role: Undergraduate Intern
+      time: Jul.2022 - Aug.2022
+      company: SK Hynix
+      details: |
+        Worked in a Summer Intern Session in the SoC team.
 #           - Bullet point
 #           - Bullet point
 #     - role: Senior Software Engineer
