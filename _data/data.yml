@@ -39,13 +39,10 @@ sidebar:
       #   level: Professional
 
     interests:
-      - item: Climbing
+      - item: Physical Design Optimization
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Machine Learning
         link:
 
 career-profile:
