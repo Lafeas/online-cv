@@ -158,13 +158,13 @@ skills:
 
   toolset:
     - name: Python
-      level: 60%
+      level: 30%
 
     - name: C/C++
-      level: 60%
+      level: 30%
 
     - name: Verilog
-      level: 60%
+      level: 30%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
