@@ -138,10 +138,10 @@ publications:
   #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
   #   bibendum fringilla a eu lectus.
   papers:
-    - title: Au-MEDAL: Adaptable Grid Router with Metal Edge Detection And Layer Integration
+    - title: "Au-MEDAL: Adaptable Grid Router with Metal Edge Detection And Layer Integration"
       link: "https://ieeexplore.ieee.org/abstract/document/11420637?casa_token=4jynbqte4eQAAAAA:RE5jS0cbB9PI3YGAyHY5sg9AmSdv-TTTPSNqLrrhjC7n0ajy6KdXJjHS-m6UCaJDlG0iPNsS0qY"
       authors: Andrew B. Kahng, Seokhyeong Kang, Sehyeon Kim, Jakang Lee, Dooseok Yoon
-      conference: ASP-DAC, 2026
+      conference: "ASP-DAC, 2026"
 
   #   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
   #     link: "#"
