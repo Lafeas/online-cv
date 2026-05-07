@@ -35,14 +35,14 @@ sidebar:
     - idiom: English
       level: Professional
 
-    # - idiom: Spanish
-    #   level: Professional
+    - idiom: Deutsch
+      level: Elementary
 
   interests:
-    - item: Physical Design Optimization
+    - item: Design Technology Co-Optimization
       link:
 
-    - item: Machine Learning
+    - item: Standard Cell Design
       link:
 
 career-profile:
@@ -50,7 +50,7 @@ career-profile:
   summary: |
     Sehyeon Kim received B.S. degree in Electronic Engineering from Pohang University of Science and Technology(POSTECH), Pohang, South Korea. in 2024.
     He is currently a M.S. ~ Ph.D candidate in Electrical Engineering in Pohang University of Science and Technology(POSTECH), Pohang, South Korea.
-    His current research interests include Physical Design Optimization. He is working with Prof. Seokhyeong Kang in his CAD & SoC Design Lab.
+    His current research interests include Design Technology Co-Optimization and Standard Cell Design. He is working with Prof. Seokhyeong Kang in his CAD & SoC Design Lab.
 # education:
 #     - degree: MSc-PhD integrated in Electronical Engineering
 #       university: POSTECH
@@ -137,11 +137,11 @@ publications:
   #   You can list your publications in this section. Lorem ipsum dolor sit
   #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
   #   bibendum fringilla a eu lectus.
-  # papers:
-  #   - title: The Art of Computer Programming
-  #     link: "#"
-  #     authors: Donald E. Knuth
-  #     conference: Addison-Wesley, 1968
+  papers:
+    - title: Au-MEDAL: Adaptable Grid Router with Metal Edge Detection And Layer Integration
+      link: "https://ieeexplore.ieee.org/abstract/document/11420637?casa_token=4jynbqte4eQAAAAA:RE5jS0cbB9PI3YGAyHY5sg9AmSdv-TTTPSNqLrrhjC7n0ajy6KdXJjHS-m6UCaJDlG0iPNsS0qY"
+      authors: Andrew B. Kahng, Seokhyeong Kang, Sehyeon Kim, Jakang Lee, Dooseok Yoon
+      conference: ASP-DAC, 2026
 
   #   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
   #     link: "#"
@@ -167,4 +167,4 @@ skills:
       level: 30%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
